@@ -1,0 +1,16 @@
+{
+    "name": "Translation",
+    "alias": "translation",
+    "description": "Module containing all EncoreCms translations",
+    "version": "1.0.0",
+    "keywords": [],
+    "active": 1,
+    "priority": 2,
+    "providers": [
+        "Modules\\Translation\\Providers\\RouteServiceProvider",
+        "Modules\\Translation\\Providers\\TranslationServiceProvider"
+    ],
+    "aliases":{},
+    "files": [
+    ]
+}

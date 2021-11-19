@@ -1,0 +1,8 @@
+url: https://github.com/EncoreCms/Platform
+versions:
+    "1.0.0":
+        added:
+            - Initial Version Module
+    "1.0.1":
+        changed:
+            - Laravel 8.x compatibility for fields.blade.php
