@@ -1,0 +1,20 @@
+{
+    "name": "History",
+    "alias": "history",
+    "description": "Module handling the real time histories",
+    "version": "1.0.0",
+    "keywords": [
+        "asgardcms",
+        "histories",
+        "pusher"
+    ],
+    "active": 1,
+    "order": 1,
+    "providers": [
+        "Modules\\History\\Providers\\HistoryServiceProvider",
+        "Modules\\History\\Providers\\RouteServiceProvider"
+    ],
+    "aliases":{},
+    "files": [
+    ]
+}
