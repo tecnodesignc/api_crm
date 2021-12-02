@@ -1,0 +1,15 @@
+{
+    "name": "Projects",
+    "alias": "projects",
+    "description": "",
+    "keywords": [],
+    "priority": 1,
+    "providers": [
+        "Modules\\Projects\\Providers\\ProjectsServiceProvider",
+        "Modules\\Projects\\Providers\\EventServiceProvider",
+        "Modules\\Projects\\Providers\\RouteServiceProvider"
+    ],
+    "aliases": {},
+    "files": [],
+    "requires": []
+}

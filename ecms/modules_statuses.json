@@ -9,5 +9,7 @@
     "Translation": true,
     "User": true,
     "Workshop": true,
-    "Blog": true
+    "Blog": true,
+    "Crm": false,
+    "Projects": true
 }

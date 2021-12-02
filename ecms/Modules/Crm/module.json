@@ -1,0 +1,14 @@
+{
+    "name": "Crm",
+    "alias": "crm",
+    "description": "",
+    "keywords": [],
+    "priority": 1,
+    "providers": [
+        "Modules\\Crm\\Providers\\CrmServiceProvider",
+        "Modules\\Crm\\Providers\\RouteServiceProvider"
+    ],
+    "aliases": {},
+    "files": [],
+    "requires": []
+}
